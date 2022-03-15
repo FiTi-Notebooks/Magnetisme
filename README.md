@@ -1,1 +1,1 @@
-# Magnetisme
+# Magnetostatique
